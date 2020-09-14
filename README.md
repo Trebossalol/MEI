@@ -1,4 +1,4 @@
-# MEI
+# [M]essage  [E]rror  [I]nterface  (Unofficial)
 
 
 ## Import 
