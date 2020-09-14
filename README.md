@@ -6,4 +6,6 @@
 const MEI = require('./index.js');
 ```
 
-## [Further Help](https://github.com/Trebossalol/MEI/blob/master/test.js)
+## [Example](https://github.com/Trebossalol/MEI/blob/master/test.js)
+
+## [Moment.js Help](https://momentjs.com/)
